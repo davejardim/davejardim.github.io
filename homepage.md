@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Me
 permalink: /resume/
 ---
 
  Sample page
 
-[Resume](/assets/Resume.pdf)
+[Resume](Resume.pdf)
