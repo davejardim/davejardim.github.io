@@ -4,10 +4,9 @@ email: davejardim@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Need to add a description to this site...
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://davejardim.com" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: davejardim
 github_username:  davejardim
-
 
 # Build settings
 markdown: kramdown
