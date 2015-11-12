@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Me
-#permalink:
+permalink: /resume
 ---
 
  Sample page
 
- [Resume](/assets/Resume.docx)
+ [Resume](/assets/Resume.pdf)
 ![photo of me here](/assets/me.jpg)
