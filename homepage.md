@@ -6,5 +6,4 @@ permalink: /resume
 
  Sample page
 
- [Resume](/assets/Resume.pdf)
-![photo of me here](/assets/me.jpg)
+[Resume](/assets/Resume.pdf)
