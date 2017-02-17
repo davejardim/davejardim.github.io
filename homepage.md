@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Me
-permalink: /resume/
 ---
 
  Sample page
