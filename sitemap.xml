@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://davejardim.com/categories/</loc>
-    <priority>0</priority>
+    <loc>http://davejardim.com/resume/</loc>
+    <lastmod>2018-05-30T09:52:40-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://davejardim.com/</loc>
+    <lastmod>2018-05-30T09:32:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://davejardim.com/categories/</loc>
     <priority>0</priority>
   </url>
   
